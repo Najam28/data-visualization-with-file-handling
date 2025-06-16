@@ -1,0 +1,51 @@
+Index,School ID,Name,Address,City,Subject,Marks,Rank,Grade
+0,107,Ivy,456 Oak Ave,New York,History,86.1,8,B
+1,108,Alice,555 Birch Dr,Houston,Science,96.1,7,D
+2,105,Charlie,444 Cedar Blvd,Chicago,History,81.4,1,B
+3,107,Henry,678 Spruce Ct,New York,Science,82.9,8,B
+4,102,Alice,789 Pine Ln,Miami,Math,62.2,8,D
+5,107,Grace,444 Cedar Blvd,Chicago,Science,73.5,8,B
+6,103,Charlie,444 Cedar Blvd,Miami,History,77.3,2,D
+7,106,Frank,101 Elm St,Chicago,Math,74.7,1,D
+8,107,Eva,123 Main St,Miami,History,87.1,10,C
+9,105,Jack,678 Spruce Ct,Miami,Science,86.4,7,D
+10,106,Jack,789 Pine Ln,New York,Science,68.4,7,C
+11,109,Bob,999 Willow Way,Miami,Science,76.1,10,D
+12,102,Frank,999 Willow Way,New York,History,75.6,9,C
+13,110,David,222 Maple Rd,Chicago,Math,67.4,8,D
+14,110,Ivy,678 Spruce Ct,Miami,Math,88.7,3,A
+15,101,Grace,456 Oak Ave,Los Angeles,Math,77.0,3,A
+16,103,Henry,101 Elm St,Los Angeles,English,79.3,10,B
+17,101,Henry,678 Spruce Ct,Miami,Math,70.5,6,B
+18,105,Frank,999 Willow Way,Chicago,History,95.7,3,D
+19,103,Jack,444 Cedar Blvd,Houston,History,74.5,7,C
+20,106,Grace,789 Pine Ln,Houston,Science,94.5,3,D
+21,101,Frank,789 Pine Ln,Chicago,English,73.2,2,B
+22,103,Eva,456 Oak Ave,Miami,Science,99.2,6,A
+23,110,Eva,555 Birch Dr,Miami,Math,61.3,4,A
+24,108,Jack,101 Elm St,Chicago,Math,74.5,10,C
+25,103,Ivy,456 Oak Ave,Houston,English,68.3,1,A
+26,102,David,101 Elm St,Los Angeles,English,79.1,7,D
+27,102,Alice,555 Birch Dr,Chicago,Math,83.2,7,D
+28,107,Jack,678 Spruce Ct,New York,Math,74.1,5,A
+29,109,Ivy,123 Main St,Miami,Math,82.1,1,A
+30,102,Henry,321 Aspen Rd,Miami,Science,77.1,1,A
+31,106,Alice,999 Willow Way,Miami,Science,71.3,2,A
+32,110,Alice,123 Main St,New York,History,90.2,6,A
+33,105,Grace,456 Oak Ave,New York,Science,81.8,3,B
+34,102,David,321 Aspen Rd,Los Angeles,English,70.6,6,B
+35,105,Ivy,321 Aspen Rd,Houston,Science,66.4,1,A
+36,112,David,321 Aspen Rd,Miami,History,75.2,6,B
+37,101,Charlie,999 Willow Way,Los Angeles,English,87.6,1,C
+38,108,Eva,444 Cedar Blvd,Houston,Math,80.4,9,A
+39,101,Grace,555 Birch Dr,New York,English,68.7,7,A
+40,102,Alice,678 Spruce Ct,Miami,English,68.0,5,B
+41,103,Jack,444 Cedar Blvd,Houston,Science,88.9,4,C
+42,110,David,101 Elm St,Chicago,History,92.4,8,A
+43,109,Eva,678 Spruce Ct,Houston,English,91.9,2,D
+44,104,Jack,101 Elm St,Houston,Science,86.2,1,A
+45,104,Ivy,101 Elm St,New York,Math,99.3,4,A
+46,101,Jack,456 Oak Ave,New York,Science,85.7,5,A
+47,105,Grace,123 Main St,Los Angeles,History,96.5,8,A
+48,104,Ivy,444 Cedar Blvd,Los Angeles,History,98.9,4,C
+49,107,David,222 Maple Rd,Houston,History,80.6,2,D

@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,JoinDate,Contract
+1,Male,49,2023-03-14,One year
+2,Female,56,2022-01-27,Two year
+3,Male,66,2022-08-14,Month-to-month
+4,Male,69,2024-03-08,Month-to-month
+5,Male,49,2022-10-11,Two year
+6,Female,21,2024-05-28,Month-to-month
+7,Male,47,2024-08-17,Two year
+8,Male,54,2023-03-29,Month-to-month
+9,Male,40,2024-10-16,Month-to-month
+10,Female,56,2024-03-26,Two year
+11,Male,62,2023-10-21,Month-to-month
+12,Male,32,2023-07-01,Two year
+13,Male,60,2024-12-08,Month-to-month
+14,Male,46,2022-01-17,Month-to-month
+15,Female,53,2022-06-07,One year
+16,Male,30,2023-04-22,One year
+17,Female,49,2024-12-05,Two year
+18,Female,24,2023-06-02,One year
+19,Female,68,2022-04-09,Two year
+20,Male,39,2024-11-26,One year
+21,Female,45,2022-10-07,Month-to-month
+22,Male,19,2023-05-12,Two year
+23,Female,59,2022-10-29,Two year
+24,Female,62,2022-06-30,Month-to-month
+25,Female,23,2023-08-30,Two year
+26,Female,45,2023-12-01,Two year
+27,Female,45,2024-09-19,One year
+28,Female,61,2022-07-10,Two year
+29,Female,61,2022-09-10,Month-to-month
+30,Female,37,2024-09-07,One year
+31,Male,47,2024-07-16,One year
+32,Male,28,2022-05-08,Month-to-month
+33,Female,45,2022-01-18,Month-to-month
+34,Female,42,2023-07-20,One year
+35,Female,56,2023-07-24,Two year
+36,Male,50,2023-11-17,One year
+37,Female,18,2023-09-18,Month-to-month
+38,Male,44,2024-05-03,One year
+39,Male,69,2024-08-19,Month-to-month
+40,Male,30,2022-06-04,One year
+41,Male,58,2023-05-05,Two year
+42,Male,20,2024-02-24,One year
+43,Female,56,2022-09-03,One year
+44,Female,23,2024-11-28,Month-to-month
+45,Female,25,2024-01-29,Month-to-month
+46,Female,44,2023-06-22,Month-to-month
+47,Female,26,2024-07-09,One year
+48,Male,54,2023-02-12,Two year
+49,Female,50,2023-06-09,Month-to-month
+50,Female,68,2024-04-07,Month-to-month
+51,Male,59,2024-06-21,One year
+52,Female,61,2022-02-05,Month-to-month
+53,Male,41,2023-11-16,Two year
+54,Female,32,2022-01-20,Two year
+55,Male,49,2022-11-17,Month-to-month
+56,Female,49,2023-05-27,Month-to-month
+57,Female,41,2023-02-04,One year
+58,Male,58,2023-10-16,Two year
+59,Male,69,2024-08-29,Two year
+60,Male,66,2023-04-16,Month-to-month
+61,Male,66,2024-04-13,One year
+62,Male,69,2023-12-28,Two year
+63,Male,29,2024-05-03,Two year
+64,Male,56,2022-02-20,One year
+65,Male,19,2023-07-29,One year
+66,Female,20,2022-05-30,Two year
+67,Female,66,2022-11-10,Two year
+68,Male,54,2023-07-24,One year
+69,Female,66,2022-11-01,Two year
+70,Female,34,2023-11-13,Month-to-month
+71,Female,66,2024-04-17,Month-to-month
+72,Female,19,2024-12-13,One year
+73,Male,19,2024-09-29,One year
+74,Female,45,2023-03-20,One year
+75,Male,40,2023-09-05,Month-to-month
+76,Female,54,2024-09-19,Two year
+77,Female,49,2022-09-21,Month-to-month
+78,Female,50,2024-12-12,Two year
+79,Male,18,2024-09-30,Month-to-month
+80,Female,36,2022-01-05,Two year
+81,Male,19,2024-02-13,Month-to-month
+82,Female,61,2024-05-26,One year
+83,Male,43,2024-09-18,Month-to-month
+84,Female,49,2024-06-02,Two year
+85,Male,23,2022-02-16,Month-to-month
+86,Male,49,2024-05-16,Month-to-month
+87,Female,21,2024-04-02,Month-to-month
+88,Male,28,2024-07-24,One year
+89,Female,34,2023-10-18,Month-to-month
+90,Female,55,2022-09-26,One year
+91,Female,41,2023-01-05,One year
+92,Female,22,2023-09-28,Month-to-month
+93,Female,69,2023-10-19,Month-to-month
+94,Female,51,2022-04-30,Month-to-month
+95,Female,23,2024-04-10,Two year
+96,Female,39,2024-12-17,Month-to-month
+97,Female,28,2024-01-11,One year
+98,Female,65,2022-04-27,Month-to-month
+99,Female,33,2024-03-01,Two year
+100,Male,50,2024-10-09,Month-to-month
+101,Male,26,2024-12-17,Two year
+102,Female,23,2023-09-26,Two year
+103,Female,33,2023-05-28,Month-to-month
+104,Female,46,2024-03-12,One year
+105,Female,20,2023-07-14,Two year
+106,Female,37,2023-05-03,Month-to-month
+107,Female,53,2024-06-15,Month-to-month
+108,Female,36,2023-12-05,One year
+109,Female,43,2023-08-04,Two year
+110,Male,20,2024-02-29,Two year
+111,Female,36,2024-05-10,Month-to-month
+112,Male,37,2022-09-04,Month-to-month
+113,Female,49,2022-06-03,One year
+114,Female,24,2024-09-23,One year
+115,Male,69,2023-11-28,Two year
+116,Female,58,2024-12-28,Two year
+117,Male,50,2024-12-06,Month-to-month
+118,Female,57,2024-10-05,Two year
+119,Female,56,2022-04-04,One year
+120,Male,35,2024-08-15,One year
+121,Female,57,2024-10-08,Month-to-month
+122,Male,18,2023-03-29,One year
+123,Female,28,2024-06-30,One year
+124,Male,45,2022-08-06,One year
+125,Male,42,2023-04-19,One year
+126,Female,67,2023-03-08,Month-to-month
+127,Female,40,2022-12-07,Month-to-month
+128,Male,48,2023-07-05,Two year
+129,Female,47,2022-12-23,One year
+130,Female,59,2022-01-23,Two year
+131,Female,52,2023-06-06,Month-to-month
+132,Male,24,2024-03-12,Month-to-month
+133,Male,33,2024-02-01,Month-to-month
+134,Male,43,2023-03-18,Month-to-month
+135,Male,65,2024-02-08,Month-to-month
+136,Male,69,2024-10-12,Month-to-month
+137,Male,66,2023-05-31,Month-to-month
+138,Male,19,2024-11-05,One year
+139,Male,18,2024-03-02,Two year
+140,Male,65,2022-12-02,Month-to-month
+141,Female,29,2022-09-15,One year
+142,Male,22,2023-05-12,One year
+143,Female,54,2024-06-14,Two year
+144,Female,49,2022-06-09,Month-to-month
+145,Female,26,2024-05-01,Two year
+146,Male,58,2023-11-21,Month-to-month
+147,Male,52,2023-01-15,One year
+148,Male,36,2024-08-14,One year
+149,Male,65,2023-11-22,One year
+150,Female,33,2024-12-02,One year
+151,Male,20,2022-10-12,Two year
+152,Male,37,2023-02-01,Month-to-month
+153,Male,41,2022-01-12,Month-to-month
+154,Male,50,2023-05-14,Two year
+155,Male,41,2024-01-24,Month-to-month
+156,Female,69,2022-02-04,One year
+157,Male,28,2023-12-28,Month-to-month
+158,Female,66,2024-04-28,One year
+159,Male,25,2022-03-31,Two year
+160,Female,53,2024-02-15,Month-to-month
+161,Male,55,2023-08-28,Two year
+162,Male,57,2024-08-27,Month-to-month
+163,Female,37,2024-10-18,One year
+164,Female,52,2023-02-22,Two year
+165,Female,65,2022-04-25,Month-to-month
+166,Male,42,2023-09-09,One year
+167,Female,52,2024-04-05,Two year
+168,Male,42,2023-02-17,Two year
+169,Male,46,2023-12-30,Month-to-month
+170,Female,35,2024-10-17,Month-to-month
+171,Female,63,2024-01-31,Month-to-month
+172,Male,35,2023-11-07,One year
+173,Male,19,2023-04-02,Month-to-month
+174,Female,52,2024-07-08,Two year
+175,Female,33,2022-07-11,Two year
+176,Female,58,2024-01-09,Month-to-month
+177,Male,53,2024-09-04,Month-to-month
+178,Male,50,2024-10-05,Two year
+179,Male,21,2022-04-06,One year
+180,Male,50,2023-10-25,Month-to-month
+181,Male,31,2022-02-06,Month-to-month
+182,Male,38,2022-10-06,Two year
+183,Female,65,2022-08-05,Month-to-month
+184,Male,37,2024-05-16,One year
+185,Male,25,2024-05-22,Two year
+186,Male,24,2022-03-03,Month-to-month
+187,Female,20,2023-08-19,Two year
+188,Male,34,2023-12-30,Month-to-month
+189,Male,50,2023-02-01,Month-to-month
+190,Female,65,2023-11-30,Month-to-month
+191,Male,29,2024-11-08,One year
+192,Male,68,2022-06-26,One year
+193,Male,39,2023-01-31,Two year
+194,Male,39,2023-03-21,Month-to-month
+195,Male,63,2022-03-17,Month-to-month
+196,Female,47,2022-09-22,One year
+197,Female,55,2023-03-31,Month-to-month
+198,Female,55,2023-12-19,One year
+199,Male,62,2024-01-05,Month-to-month
+200,Male,68,2024-04-30,Two year
